@@ -1,0 +1,1 @@
+export const MONGODB_URI = 'mongodb+srv://FaustoCeca:Deloma3+@cluster0.g1qzv6m.mongodb.net';
